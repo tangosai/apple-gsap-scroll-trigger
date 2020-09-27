@@ -1,0 +1,58 @@
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.sa-img{
+    width: 100%;
+    height: 400px;
+    background: url(../img/slider_1.jpg);
+}
+.sa-img-1{
+    width: 100%;
+    height: auto;
+    overflow: hidden !important;
+}
+.img-single{
+    width: 100%;
+}
+.swiper-container {
+    width: 100%;
+    height: 600px;
+}
+.swiper-pagination{
+    bottom: 150px;
+}
+.swiper-pagination .swiper-pagination-bullet{
+    position: relative;
+    width: auto;
+    height: auto;
+    border-radius: 0;
+    opacity: 1;
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0px 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
